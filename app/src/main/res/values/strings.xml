@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">note</string>
+    <string name="Just_Note_It">Just Note It</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="priority">Priority</string>
+    <string name="delete">Are you sure you want to delete</string>
+    <string name="No_filter">No Filter</string>
+    <string name="High_low">High to Low</string>
+    <string name="Low_high">Low to High</string>
+    <string name="Search">Search</string>
+    <string name="Add_new_note"> Add new note</string>
+    <string name="Filter_icon"> Filter icon</string>
+
+    <string name="OpenDrawer">  open drawer</string>
+    <string name="CloseDrawer"> close drawer</string>
+</resources>
